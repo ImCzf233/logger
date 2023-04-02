@@ -4,6 +4,8 @@
 
 Logger是由Ensemble Team编写的我的世界秋月之光垃圾外挂，大部分代码是从其他外挂抄袭而来。本网站旨在泄露、破解一切Logger发布版本，Logger每次更新一旦被提交，我们将会立刻开始破解。
 
+如果你拿到了Logger的更新版本，愿意帮助我们治理游戏环境，打击外挂，请在[我们的GitHub页面](https://github.com/ImCzf233/logger)发起Issue提交Logger新版本。
+
 ![sb](https://i.imgur.com/9t4UB19.png)
 
 ## Logger为什么垃圾
